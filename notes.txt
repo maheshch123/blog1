@@ -1,0 +1,8 @@
+Home page : http://127.0.0.1:8000/index
+
+http://127.0.0.1:8000 for api data :
+                                    "PostApi": "http://127.0.0.1:8000/PostApi/
+                                    "RegisterApi": "http://127.0.0.1:8000/RegisterApi/
+                                    "CommentApi": "http://127.0.0.1:8000/CommentApi/
+                                    "ProfileApi": "http://127.0.0.1:8000/ProfileApi/
+
